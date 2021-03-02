@@ -21,7 +21,7 @@ git clone https://github.com/RamcharanTeja64bit/Machine-Learning-Projects.git
 
 4.Customer_Segmentation_using_RFM_and_KMeans_Models
 
-5.COVID19_Detection_using_X-RAY_Analysis
+5.COVID19_Detection_using_X- RAY
 
 6.CAT_DOG_classification
 
@@ -31,7 +31,7 @@ git clone https://github.com/RamcharanTeja64bit/Machine-Learning-Projects.git
 
 9.Customer_Lifetime_Value
 ## Data sets	📖 
-All the datasets are included in the each project folder
+All the datasets are included in each project folder
 
 ## let's Connect💫 
 Gmail: ramcharanteja.380@gmail.com 🔮 
