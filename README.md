@@ -44,4 +44,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Thanks for contributing  😇
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/RamcharanTeja64bit/Machine-Learning-Projects/blob/main/LICENSE_MIT)
