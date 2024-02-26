@@ -27,7 +27,7 @@ git clone https://github.com/RamcharanTeja64bit/Machine-Learning-Projects.git
 
 7.Fuel_Efficiency_prediction
 
-8.Image_Classification_WebAPP_Ramcharan_Teja
+8.Image_Classification_WebAPP
 
 9.Customer_Lifetime_Value
 ## Data sets	📖 
